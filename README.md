@@ -10,14 +10,18 @@ This project was completed using the FastAPI framework.
 
 # Install Dependencies
 Windows:
+
 pipenv install --dev
 
 Activate Virtual Environment:
+
 pipenv shell
 
 Launch App:
+
 uvicorn app.main:app --reload
 
 Browser:
+
 localhost:8000
 
