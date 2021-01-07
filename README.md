@@ -8,23 +8,29 @@ https://strain-suggestor.herokuapp.com/
 
 This project was completed using the FastAPI framework.
 
-# Install Dependencies
+## Install 
+How to install all dependencies, launch the app and run it locally.
+
 Windows:
 
+```sh
 pipenv install --dev
-
+```
 
 Activate Virtual Environment:
 
+```sh
 pipenv shell
-
+```
 
 Launch App:
 
+```sh
 uvicorn app.main:app --reload
-
+```
 
 Browser:
 
+```sh
 localhost:8000
-
+```
