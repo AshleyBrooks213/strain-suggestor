@@ -6,6 +6,10 @@ Our model will return the top 5 predictions for suggest strains based on user's 
 You can find the finished product here:
 https://strain-suggestor.herokuapp.com/
 
+You can find the completed models and vectorized files in the directory included or in the github repo here:
+https://github.com/micahks/Med-Cabinet/tree/master/Med%20Cabinet
+
+
 This project was completed using the FastAPI framework.
 
 ## Install 
