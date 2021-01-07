@@ -13,13 +13,16 @@ Windows:
 
 pipenv install --dev
 
+
 Activate Virtual Environment:
 
 pipenv shell
 
+
 Launch App:
 
 uvicorn app.main:app --reload
+
 
 Browser:
 
