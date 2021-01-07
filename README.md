@@ -8,7 +8,7 @@ https://strain-suggestor.herokuapp.com/
 
 This project was completed using the FastAPI framework.
 
-#Install Dependencies
+# Install Dependencies
 Windows:
 pipenv install --dev
 
